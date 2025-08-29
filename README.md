@@ -1,5 +1,5 @@
-![Logo de Plataforma Bizancio](ByzantiaCoin_logo_fullres.png) 
+![Logo de Plataforma Bizancio](ByzantiaCoin_logo_fullres.png)
 
-# Plataforma Byzancia Exchangue
+# Plataforma Byzancia Exchange
 
 Plataforma Byzancia Intercambio
