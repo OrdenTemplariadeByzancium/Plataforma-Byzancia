@@ -91,3 +91,5 @@ Construir comunidades autosuficientes (Oasis y Templos de Ayuda) basadas en ener
 Ser un modelo replicable de economía solidaria y ceremonial para otras órdenes y movimientos humanitarios.
 
 
+
+
