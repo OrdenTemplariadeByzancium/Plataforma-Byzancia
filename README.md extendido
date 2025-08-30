@@ -81,3 +81,23 @@ Este proyecto se distribuye bajo la **Licencia Templaria** incluida en este repo
 # 3) Inicializar base de datos (ajusta DSN para prod)
 ./scripts/initDatabase.sh
 
+
+5) **(Opcional) Habilitar Wiki**
+- En el repo → **Settings → General → Features → Wiki (check)**.
+- Crea una página “Instalación” que enlace a `docs/ibax/INSTALL.md`.
+
+---
+
+## 🧭 ¿Qué paso dar AHORA MISMO?
+
+1. Entra al repo → pestaña **Code**.  
+2. Navega a **scripts/** y confirma que existan:
+   - `generateKeys.sh`
+   - `generateFirstBlock.sh`
+   - `initDatabase.sh`
+   - Si alguno no está en esta ruta, *muévelo* como indiqué (Edit → cambia la ruta → Commit).
+3. Navega a **docs/config/** y confirma los **3 .md**.
+4. (Opcional) Borra los **.zip**.
+
+Con eso, **Fase II = COMPLETA** 
+
