@@ -1,0 +1,71 @@
+#  Plataforma Byzancia Exchange – Open Source
+
+Bienvenido a la **Plataforma Byzancia Exchange**, un proyecto open source impulsado por la Orden Templaria de Byzancio.  
+Este repositorio reúne la identidad gráfica, guías técnicas iniciales y los componentes fundamentales para el ecosistema **Byzancia + JSD**.
+
+---
+
+##  Contenido del repositorio
+
+- `brand/` → Logos, banners, roadmap y tokens oficiales.  
+- `docs/` → Documentación técnica, guías de configuración y roadmap.  
+- `scripts/` → Scripts iniciales para nodos (pendiente).  
+- `README.md` → Documento principal.  
+- `CONTRIBUTING.md` → Guía de colaboración.  
+- `Licencia Templaria` → Licencia del proyecto.  
+- `ROADMAP.md` → Fases del desarrollo.
+
+---
+
+##  Identidad visual
+
+### Logo principal
+![Logo Byzancia Exchange](brand/banner/Banner_Byzancia_Exchange.png)
+
+### Ecosistema
+![Ecosistema Orden Templaria](brand/ecosystem/Ecosistema_Orden_Templaria.png)
+
+### Roadmap
+![Roadmap Byzancia Exchange](brand/roadmap/Roadmap_lineal.png)
+
+---
+
+## 🪙 Tokens Oficiales
+
+| Token | Imagen | Descripción |
+|-------|--------|-------------|
+| **FLIP** | ![FLIP](brand/tokens/FLIP_TOKEN.png) | Token de prueba y gobernanza interna. |
+| **BCC** (Byzancia CAEM Coin) | ![BCC](brand/tokens/Token_BCC.png) | Moneda institucional de la Fundación CAEM. |
+| **JSD Verde (JSDV)** | ![JSDV](brand/tokens/Token_JSDV.png) | Token ecológico respaldado por proyectos sostenibles. |
+| **JSD** | ![JSD](brand/tokens/Token_JSD.png) | Jerusalem Solar Dollar, núcleo financiero del ecosistema. |
+| **TCC** (Templar CAEM Coin) | ![TCC](brand/tokens/Token_TCC.png) | Token templario con uso ceremonial y fundacional. |
+
+---
+
+##  Fases del proyecto
+
+### Fase I – Organización básica
+- [x] Licencia Templaria  
+- [x] CONTRIBUTING.md  
+- [x] ROADMAP.md  
+- [x] Logos y materiales gráficos  
+- [ ] Activación de Wiki en GitHub  
+
+###  Fase II – Preparación técnica inicial
+- [ ] Subir código base de `go-ibax` o guías para nodos.  
+- [ ] Ejemplos de configuración (`generateKeys`, `generateFirstBlock`, `initDatabase`).  
+- [ ] Crear carpeta `/scripts` con instaladores simples.  
+
+---
+
+##  Wiki
+Próximamente disponible con documentación técnica y ceremonial.  
+
+---
+
+## Licencia
+Este proyecto se distribuye bajo la **Licencia Templaria** incluida en este repositorio.  
+
+---
+
+✠ *Plataforma Byzancia Exchange – Proyecto Open Source de la Orden Templaria de Byzancio*
