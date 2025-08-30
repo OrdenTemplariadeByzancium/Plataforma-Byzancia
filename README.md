@@ -1,17 +1,14 @@
-# Plataforma Byzancia Exchange  
-
-Plataforma Bizancia Intercambio  
-
 <div align="center">
 
-[![Release](https://img.shields.io/github/v/release/OrdenTemplariadeByzancium/Plataforma-Byzancia?color=gold&label=versión&logo=github)](https://github.com/OrdenTemplariadeByzancium/Plataforma-Byzancia/releases)  
-[![License](https://img.shields.io/badge/Licencia-Templaria-red)](./Licencia%20Templaria)  
-[![Docs](https://img.shields.io/badge/Docs-ibax-green)](./docs/ibax/INSTALL.md)  
-![Templar Seal](https://img.shields.io/badge/%E2%9A%94%20Orden%20Templaria-black?style=flat&logo=cross&logoColor=gold)  
+[![Release](https://img.shields.io/github/v/release/OrdenTemplariadeByzancium/Plataforma-Byzancia?color=gold&label=versión&logo=github)](https://github.com/OrdenTemplariadeByzancium/Plataforma-Byzancia/releases)
+[![License](https://img.shields.io/badge/Licencia-Templaria-red)](/Licencia%20Templaria)
+[![Docs](https://img.shields.io/badge/Docs-ibax-green)](/docs/ibax/INSTALL.md)
+![Templar Seal](https://img.shields.io/badge/%E2%9A%94%20Orden%20Templaria-black?style=flat&logo=cross&logoColor=gold)
 
-![Logo de Plataforma Bizancio](ByzanciaCoin_logo_fullres.png)
+<img src="ByzanciaCoin_logo_fullres.png" alt="Logo de Plataforma Bizancio" width="150"/>
 
 </div>
+
 
 La Orden Templaria de Bizancio une tradición y tecnología para crear un ecosistema económico descentralizado.
 La Plataforma Bizancio es el altar digital donde los tokens, la gobernanza y la solidaridad se convierten en servicio y comunidad.
