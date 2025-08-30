@@ -69,3 +69,15 @@ Este proyecto se distribuye bajo la **Licencia Templaria** incluida en este repo
 ---
 
 ✠ *Plataforma Byzancia Exchange – Proyecto Open Source de la Orden Templaria de Byzancio*
+##  Uso rápido (scripts)
+
+```bash
+# 1) Generar llaves
+./scripts/generateKeys.sh
+
+# 2) Crear bloque génesis (usa la llave pública generada)
+./scripts/generateFirstBlock.sh
+
+# 3) Inicializar base de datos (ajusta DSN para prod)
+./scripts/initDatabase.sh
+
