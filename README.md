@@ -52,7 +52,7 @@ Sitio web oficial
 
 Incluye el enlace principal y subdominios clave:
 
-🌐 ordtrejsd.org
+[🌐 ordtrejsd.org](https://www.ordtrejsd.org/)
 
 1. Quiénes somos
 
