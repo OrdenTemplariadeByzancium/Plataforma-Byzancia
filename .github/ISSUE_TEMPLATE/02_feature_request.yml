@@ -1,0 +1,11 @@
+name: Feature request
+description: Solicita una mejora
+labels: [enhancement]
+body:
+  - type: textarea
+    id: value
+    attributes: { label: Valor/impacto esperado }
+    validations: { required: true }
+  - type: textarea
+    id: scope
+    attributes: { label: Alcance / Criterios de aceptación }
