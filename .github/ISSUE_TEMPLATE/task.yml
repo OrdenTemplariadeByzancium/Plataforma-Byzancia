@@ -1,0 +1,21 @@
+name: "🛠️ Task"
+description: Tarea técnica o pendiente
+labels: ["task"]
+body:
+  - type: textarea
+    id: scope
+    attributes:
+      label: Alcance
+      description: Explica qué incluye esta tarea.
+      placeholder: "Implementar..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notas / Dependencias
+      description: Información adicional, enlaces o dependencias.
+      placeholder: "Relacionado con el issue #..."
+    validations:
+      required: false
