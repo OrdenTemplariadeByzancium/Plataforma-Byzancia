@@ -13,3 +13,4 @@ lint:
 test:
 	bash scripts/test.sh
 
+fix: actualizar Makefile con comandos base
