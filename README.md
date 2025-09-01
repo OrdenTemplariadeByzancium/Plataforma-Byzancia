@@ -10,7 +10,7 @@
 </div>
 
 
-La Orden Templaria de Bizancio une tradición y tecnología para crear un ecosistema económico descentralizado.
+La Organizacion Soberana Mundial Orden Templaria de Bizancium  une tradición y tecnología para crear un ecosistema económico descentralizado.
 La Plataforma Bizancio es el altar digital donde los tokens, la gobernanza y la solidaridad se convierten en servicio y comunidad.
 
 Plataforma Bizancia Exchangue es una iniciativa de la Orden Templaria de Bizancio destinada a activar un ecosistema económico descentralizado que funcione dentro del círculo cerrado del Orden.
