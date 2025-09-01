@@ -1,14 +1,15 @@
 up:
-\tdocker compose -f docker/compose.yml up -d --build
+	docker compose -f docker/compose.yml up -d --build
 
 down:
-\tdocker compose -f docker/compose.yml down
+	docker compose -f docker/compose.yml down
 
 logs:
-\tdocker compose -f docker/compose.yml logs -f
+	docker compose -f docker/compose.yml logs -f
 
 lint:
-\tbash scripts/lint.sh
+	bash scripts/lint.sh
 
 test:
-\tbash scripts/test.sh
+	bash scripts/test.sh
+
