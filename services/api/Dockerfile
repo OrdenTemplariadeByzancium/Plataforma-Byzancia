@@ -15,3 +15,4 @@ FROM gcr.io/distroless/base
 COPY --from=builder /app/api /api
 EXPOSE 8080
 ENTRYPOINT ["/api"]
+
