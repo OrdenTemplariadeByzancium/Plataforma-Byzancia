@@ -1,0 +1,11 @@
+{
+  "JSD": {
+    "polygon": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "JSD",
+      "name": "JSD - Jerusalem Solar Dólar",
+      "note": "Reemplazar por la dirección oficial una vez confirmada."
+    }
+  }
+}
