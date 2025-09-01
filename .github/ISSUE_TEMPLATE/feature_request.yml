@@ -1,0 +1,21 @@
+name: "✨ Feature request"
+description: Sugiere una mejora o nueva funcionalidad
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Propuesta
+      description: Explica la mejora o funcionalidad que propones.
+      placeholder: "Me gustaría que..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: value
+    attributes:
+      label: Valor esperado
+      description: ¿Qué aporta esta mejora al proyecto?
+      placeholder: "Beneficios, impacto, casos de uso..."
+    validations:
+      required: false
