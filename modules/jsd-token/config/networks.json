@@ -1,0 +1,6 @@
+{
+  "network": "polygon",
+  "chainId": 137,
+  "rpc": "https://polygon-rpc.com/",
+  "explorer": "https://polygonscan.com/"
+}
