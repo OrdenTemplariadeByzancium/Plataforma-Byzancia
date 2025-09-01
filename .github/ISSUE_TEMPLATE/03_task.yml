@@ -1,0 +1,10 @@
+name: Task
+description: Tarea técnica
+labels: [task]
+body:
+  - type: textarea
+    id: scope
+    attributes: { label: Alcance }
+  - type: textarea
+    id: notes
+    attributes: { label: Notas / dependencia }
