@@ -1,0 +1,43 @@
+version: "3.9"
+
+services:
+  api:
+    container_name: byzancia-api
+    build:
+      context: ./services/api
+      dockerfile: Dockerfile
+    image: byzancia/api:dev
+    ports:
+      - "8080:8080"
+    environment:
+      # Puedes añadir variables aquí si las necesitas más adelante
+      # APP_ENV: "dev"
+      # PORT: "8080"
+      TZ: "UTC"
+    restart: unless-stopped
+
+  # web:
+  #   container_name: byzancia-web
+  #   build:
+  #     context: ./services/web
+  #     dockerfile: Dockerfile
+  #   image: byzancia/web:dev
+  #   ports:
+  #     - "3000:3000"
+  #   depends_on:
+  #     - api
+  #   restart: unless-stopped
+
+  # worker:
+  #   container_name: byzancia-worker
+  #   build:
+  #     context: ./services/worker
+  #     dockerfile: Dockerfile
+  #   image: byzancia/worker:dev
+  #   depends_on:
+  #     - api
+  #   restart: unless-stopped
+
+networks:
+  default:
+    name: byzancia-net
